@@ -11,4 +11,4 @@ Click on the images to earn points but dont click on the same image twice or the
 - JavaScript
 - React
 
-[Play](https://codeycsm.github.io/clicky-game/)
+# [Play](https://codeycsm.github.io/clicky-game/)
